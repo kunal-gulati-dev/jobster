@@ -506,7 +506,7 @@ const onSubmit = (e) => {
   e.preventDefault();
   const { name, email, password, isMember } = values;
   if (!email || !password || (!isMember && !name)) {
-    consol.log('Please Fill Out All Fields');
+    console.log('Please Fill Out All Fields');
     return;
   }
 };
