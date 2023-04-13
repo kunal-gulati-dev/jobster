@@ -210,7 +210,7 @@ npm install styled-components
 import styled from 'styled-components';
 
 const El = styled.el`
-  // styles go here
+z   // styles go here
 `;
 ```
 
