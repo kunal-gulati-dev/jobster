@@ -608,7 +608,9 @@ root.render(
 
 ```sh
 npm install @reduxjs/toolkit react-redux
+
 ```
+//Applications that need to share state between different components, or across different parts of the application.
 
 #### 23) RegisterUser, LoginUser - Placeholders
 
